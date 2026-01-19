@@ -27,7 +27,10 @@ After that follow the below steps to activate it.
 
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
-*`iex(irm is.gd/idm_reset)`
+*
+```
+https://raw.githubusercontent.com/Mudales/IDM-Activation-Script/refs/heads/main/IAS.ps1
+```
 * You will see the activation options, follow the on-screen instructions.
 * That’s all.
 
