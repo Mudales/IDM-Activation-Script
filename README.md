@@ -29,7 +29,7 @@ After that follow the below steps to activate it.
 * Copy-paste the below code and press enter
 *
 ```
-https://raw.githubusercontent.com/Mudales/IDM-Activation-Script/refs/heads/main/IAS.ps1
+irm https://raw.githubusercontent.com/Mudales/IDM-Activation-Script/refs/heads/main/IAS.ps1 | iex
 ```
 * You will see the activation options, follow the on-screen instructions.
 * That’s all.
